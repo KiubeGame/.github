@@ -3,6 +3,10 @@
 <h2>Kiube - The online 1v1 cube game</h2>
 <a href="https://kiube.netlify.app">🔗 Play now - beta</a>
 
+<br><br>
+
+Kiube is a online 1v1 game created by Stormyz, a solo french developer. Kiube is a turn by turn game with cubes and powers to attack enemies cubes.
+
 ## Features :
 
 - Online 1v1 game
@@ -12,3 +16,8 @@
 - *coming soon* > friends system
 - Free to play
 - No ads
+
+## How to play ?
+
+Go to [kiube.netlify.app](https://kiube.netlify.app) ( beta ), create an account and invite a friend to play with you! <br>
+Soon: matchmaking and bot system to play solo.
