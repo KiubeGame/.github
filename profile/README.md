@@ -21,3 +21,9 @@ Kiube is a online 1v1 game created by Stormyz, a solo french developer. Kiube is
 
 Go to [kiube.netlify.app](https://kiube.netlify.app) ( beta ), create an account and invite a friend to play with you! <br>
 Soon: matchmaking and bot system to play solo.
+
+## Ressouces that I use :
+
+- NodeJS for the backend, with [Render](https://render.com)
+- ReactJS for the frontend, with [Vercel](https://vercel.com)
+- [MongoDB](https://mongodb.com) and Atlas for the database
